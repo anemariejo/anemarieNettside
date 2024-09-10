@@ -8,5 +8,6 @@
 }
 
 .bakgrunnsBilde {
+    background-image: url(/bilder/smilende\ mann1.jpeg);
     width: fit-content;
 }
