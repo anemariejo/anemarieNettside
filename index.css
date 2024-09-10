@@ -1,9 +1,12 @@
 .header {
     display: flex;
     flex-direction: row;
-    background-color: aqua;
 }
 
 .a {
     text-decoration: none;
+}
+
+.bakgrunnØverst {
+    
 }
